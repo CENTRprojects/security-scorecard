@@ -35,6 +35,8 @@ This document defines the Domain Security Scorecard - a structured set of tests 
 
 ## Table of Contents
 
+- General
+  - [Introduction](general/introduction.md)
 - Domain
   - Tests
     - RFC 9116 / security.txt
